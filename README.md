@@ -20,7 +20,7 @@ the files used are
 chicago.csv
 washington.csv
 new_york_city.csv
-biekshare_2.py
+bikeshare_2.py
 
 ### Credits
 
